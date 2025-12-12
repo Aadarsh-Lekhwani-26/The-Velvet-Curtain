@@ -25,18 +25,17 @@ Posters & production summaries
 👥 About
 
 The company's mission, values, and history
-Team information
-Photo gallery (optional)
 📅 Events & Programs
+listed in the website
 Theatre events
+listed in the website
 Workshops and training
-Special performances
+listed in the website
 
 📞 Contact
 
-Email & social links
-Venue location
-Simple contact info section
+Email:- thevelvetcurtain@gmail.com 
+Contact:- 9845365487
 
 🛠️ Tech Stack
 
